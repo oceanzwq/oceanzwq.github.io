@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenqiong Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A PhD student at the School of Computer Science, Nanjing University of Posts and Telecommunications"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
